@@ -1,4 +1,5 @@
 
+import 'package:common_github_search/src/common_github_search.dart';
 import 'package:common_github_search/src/models/search_result_item.dart';
 
 class SearchResult{

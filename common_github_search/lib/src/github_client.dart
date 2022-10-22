@@ -1,6 +1,7 @@
 import 'dart:async';
 import 'dart:convert';
 import 'package:http/http.dart' as http;
+import 'package:common_github_search/src/common_github_search.dart';
 
 import 'models/search_result.dart';
 import 'models/search_result_error.dart';
